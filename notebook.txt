@@ -18,6 +18,7 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 ==============setting up the laptop=======================
 09/04  DP		10:00		10:15			0				Module00		  15			Installing racket.
 09/04  DP		11:00		11:30			5+5				Module00		  20			Going through slides from welcome video to Lesson 0.4
+09/04  DP		11:30		12:30			10				Module00		  50			Going through Lesson 0.4. Phone call from Home as interruption.
 
 
 
