@@ -1,11 +1,14 @@
 #lang racket
-; circumference : Number -> Number
+; Circumference : Number -> Number
 ; GIVEN: the radius r of a circle 
 ; RETURNS: its circumference, using the formula 2 * pi * r.
 ; Examples:
-; (circumference 1)  =>  6.283185307179586 
-; (circumference 0)  =>  0
+; (Circumference 1)  =>  6.283185307179586 
+; (Circumference 0)  =>  0
 
-(define (circumference Radius)
+(define (Circumference Radius)
   (* 2 pi Radius)
   )
+
+(Circumference 1)
+(Circumference 0)
