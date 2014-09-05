@@ -13,4 +13,6 @@
     [(< (sqrt x) (sqrt y)) (sqrt y)]
     [else (sqrt x)]))
 
-
+(define (negate x) 
+  (- x)
+  )
