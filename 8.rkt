@@ -1,11 +1,16 @@
 #lang racket
-; circumference : Number -> Number
+; circle-area : Number -> Number
 ; GIVEN: the radius r of a circle 
-; RETURNS: its circumference, using the formula 2 * pi * r.
+; RETURNS: its area, using the formula  pi * r^2
 ; Examples:
-; (circumference 1)  =>  6.283185307179586 
-; (circumference 0)  =>  0
+; (circle-area 5)  =>  78.53981633974483
+; (circle-area 7)  =>  153.93804002589985
+; (circle-area 1)  =>  3.141592653589793
 
-(define (circumference Radius)
-  (* 2 pi Radius)
+(define (circle-area Radius)
+  (* pi Radius Radius)
   )
+
+(circle-area 5)
+(circle-area 7)
+(circle-area 1)

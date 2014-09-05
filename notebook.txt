@@ -30,6 +30,7 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 09/04  DP		17:00		17:15							Break 			  00			Going to richards hall for fees submission. counter closed.
 09/04  DP		17:15		18:00							Module00		  30			starting Ex. 7
 09/04  DP		18:00		18:15							Module00		  15			starting Ex. 8
+09/04  DP		18:15		18:30							Module00		  15			Finished till ex. 8. Stopping for now.
 
 
 
