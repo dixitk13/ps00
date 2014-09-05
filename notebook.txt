@@ -1,0 +1,33 @@
+Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+==============setting up the laptop=======================
+09/04  DP		13:20		14:00							Module00          40			Issues with refreshing LDAP Servers in systems lab.
+09/04  DP		14:00		15:00			0				Lunch			  60			Lunch
+09/04  DP		15:00		15:30			15				Module00		  30			Setting up Office 365
+09/04  DP		15:30		16:00			00				Module00		  30			Setting up github and gavatar
+09/04  DP		16:00		16:30			15				Module00		  30			Setting up github private repository
+09/04  DP		16:30		17:30			30				Module00		  60			Signing up on piazza, issues with verifying email address. 
+																							Excerpt from bobby@pizza team "Hi Dixit, Thanks for reaching out!
+																							I’m so sorry that there was a delay with your validation code. 
+																							It looks like your email address was accidentally added to a bounce
+																							list, which likely occurred because one of our emails was sent back
+																							as undeliverable. I’ve removed your email address from the bounce
+																							list, so that you should receive your emails without a problem from
+																							now. Please let me know if for some reason you’re still not
+																							receiving emails"							
+09/04  DP		17:30		18:00			0				Module00		  30			Surfing piazza for the first time.
+==============setting up the laptop=======================
+09/04  DP		10:00		10:15			0				Module00		  15			Installing racket.
+09/04  DP		10:00		10:15			0				Module00		  15			Installing racket
+
+
+
+09/05  MW,IS     13:02  13:47  10+5          1        30            Analysis of Q1
+
+============committing to git: 3/23 15:15 ===================
+    
+
+    
+Total Time On Task Q1 (minutes)                  0
+Total Time On Task Q2 (minutes)                  0
+TOTQ1 (hours and tenths)                         0.0
+TOTQ2 (hours and tenths)                         0.0
