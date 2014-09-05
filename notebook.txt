@@ -23,6 +23,10 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 09/04  DP		13:30		14:30			10				Module00		  60			Going through Lesson 0.4. Starting with test programs.
 09/04  DP		14:30		15:00							Module00		  60			Ex 1,2
 09/04  DP		15:00		15:15			5				Module00		  60			Ex 3, still working on it
+09/04  DP		15:15		16:00							Module00		  60			Ex 4, 5. 5 mins to refer for racket documentation-inbuilt funtions
+09/04  DP		15:15		16:00							Module00		  60			Ex 6 starting with contract, purpose, et al.
+09/04  DP		16:00		16:30			5				Module00		  00			breaking for 30 minutes, free ice-cream being distrubted at snell
+
  
 
 

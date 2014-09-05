@@ -1,0 +1,10 @@
+#lang racket
+; sq : Number -> Number
+; GIVEN: the number
+; RETURNS: the square of the number
+; Examples:
+; (sq 10)  => 100
+; (sq -5)  => 25
+
+(define (sq NumberToBeSquared)
+  (* NumberToBeSquared NumberToBeSquared))

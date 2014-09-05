@@ -7,5 +7,13 @@
 ; (tip 10 0.15)  => 1.5
 ; (tip 20 0.17)  => 3.4
 
-(define (tip x y)
-  )
+
+(define (tip AmountOfTheBill PercentageOfTip)
+ (cond 
+   [(negative? AmountOfTheBill) "Amount of Bill cannot be negative"]
+   [else (* AmountOfTheBill PercentageOfTip)]))
+
+
+(tip 10 0.15)  
+(tip 20 0.17)  
+(tip -20 0.17)  
