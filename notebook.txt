@@ -6,14 +6,14 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 09/04  DP		15:30		16:00			00				Module00		  30			Setting up github and gavatar
 09/04  DP		16:00		16:30			15				Module00		  30			Setting up github private repository
 09/04  DP		16:30		17:30			30				Module00		  60			Signing up on piazza, issues with verifying email address. 
-																							Excerpt from bobby@pizza team "Hi Dixit, Thanks for reaching out!
-																							I’m so sorry that there was a delay with your validation code. 
-																							It looks like your email address was accidentally added to a bounce
-																							list, which likely occurred because one of our emails was sent back
-																							as undeliverable. I’ve removed your email address from the bounce
-																							list, so that you should receive your emails without a problem from
-																							now. Please let me know if for some reason you’re still not
-																							receiving emails"							
+																		Excerpt from bobby@pizza team "Hi Dixit, Thanks for reaching out!
+																		I’m so sorry that there was a delay with your validation code. 
+																		It looks like your email address was accidentally added to a bounce
+																		list, which likely occurred because one of our emails was sent back
+																		as undeliverable. I’ve removed your email address from the bounce
+																		list, so that you should receive your emails without a problem from
+																		now. Please let me know if for some reason you’re still not
+																		receiving emails"							
 09/04  DP		17:30		18:00			0				Module00		  30			Surfing piazza for the first time.
 ==============setting up the laptop=======================
 09/04  DP		10:00		10:15			0				Module00		  15			Installing racket.
