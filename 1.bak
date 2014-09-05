@@ -5,12 +5,6 @@
 ;; (* 3.5 (- 5 3))
 ; = : Number Number -> Boolean
 ; Tests two numbers for equality
-
-
-
-(define (greater x y)
-  (cond 
-    [(< (sqrt x) (sqrt y)) (sqrt y)]
-    [else (sqrt x)]))
-
-
+(cond 
+          [(< (sqrt 5) (/ 5 2)) true)
+          (else false)])
