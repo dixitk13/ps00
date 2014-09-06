@@ -37,7 +37,7 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 09/06  DP		14:20		14:30							Module00		  10			Cloning given repository pdp-dixitk13.
 09/06  DP		14:30		14:55							Module00		  25			Doing Ex. 9, exploring the racket documentation 
 
-============committing to git: 3/23 15:15 ===================
+
     
 
     
