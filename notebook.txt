@@ -2,10 +2,10 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 ==============setting up the laptop=======================
 09/04  DP		13:20		14:00							Module00          40			Issues with refreshing LDAP Servers in systems lab.
 09/04  DP		14:00		15:00			0				Lunch			  60			Lunch
-09/04  DP		15:00		15:30			15				Module00		  30			Setting up Office 365
-09/04  DP		15:30		16:00			00				Module00		  30			Setting up github and gavatar
-09/04  DP		16:00		16:30			15				Module00		  30			Setting up github private repository
-09/04  DP		16:30		17:30			30				Module00		  60			Signing up on piazza, issues with verifying email address. 
+09/04  DP		15:00		15:30			15				Module00		  15			Setting up Office 365
+09/04  DP		15:30		16:00							Module00		  30			Setting up github and gavatar
+09/04  DP		16:00		16:30			15				Module00		  15			Setting up github private repository
+09/04  DP		16:30		17:30			30				Module00		  30			Signing up on piazza, issues with verifying email address. 
 																		Excerpt from bobby@pizza team "Hi Dixit, Thanks for reaching out!
 																		I’m so sorry that there was a delay with your validation code. 
 																		It looks like your email address was accidentally added to a bounce
@@ -20,19 +20,21 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 ==============starting the excercises=======================
 09/05  DP		11:00		11:30			5+5				Module00		  20			Going through slides from welcome video to Lesson 0.4
 09/05  DP		11:30		12:30			10				Module00		  50			Going through Lesson 0.4. Phone call from Home as interruption.
-09/05  DP		12:30		13:30			0				Lunch			  60			Lunch at home
-09/05  DP		13:30		14:30			10				Module00		  60			Going through Lesson 0.4. Starting with test programs.
-09/05  DP		14:30		15:00							Module00		  60			Ex 1,2
-09/05  DP		15:00		15:15			5				Module00		  60			Ex 3, still working on it
-09/05  DP		15:15		16:00							Module00		  60			Ex 4, 5. 5 mins to refer for racket documentation-inbuilt funtions
-09/05  DP		15:15		16:00							Module00		  60			Ex 6 starting with contract, purpose, et al.
-09/05  DP		16:00		16:30							Break			  00			breaking for 30 minutes, free ice-cream being distrubted at snell
+09/05  DP		12:30		13:30							Lunch			  60			Lunch at home
+09/05  DP		13:30		14:30			10				Module00		  50			Going through Lesson 0.4. Starting with test programs.
+09/05  DP		14:30		15:00							Module00		  30			Ex 1,2
+09/05  DP		15:00		15:15			5				Module00		  10			Ex 3, still working on it
+09/05  DP		15:15		16:00							Module00		  45			Ex 4, 5. 5 mins to refer for racket documentation-inbuilt funtions
+09/05  DP		16:00		16:15							Module00		  15			Ex 6 starting with contract, purpose, et al.
+09/05  DP		16:15		16:30			15				Break			  00			breaking for 30 minutes, free ice-cream being distrubted at snell
 09/05  DP		16:30		17:00							Module00		  30			Ex 6 finished done
-09/05  DP		17:00		17:15							Break 			  00			Going to richards hall for fees submission. counter closed.
-09/05  DP		17:15		18:00							Module00		  30			starting Ex. 7
+09/05  DP		17:00		17:15			15				Break 			  00			Going to richards hall for fees submission. counter closed.
+09/05  DP		17:15		18:00			15				Module00		  30			starting Ex. 7, interruptions - calls from home.
 09/05  DP		18:00		18:15							Module00		  15			starting Ex. 8
 09/05  DP		18:15		18:30							Module00		  15			Finished till ex. 8. Stopping for now.
-
+==============starting the excercises=======================
+09/06  DP		14:00		14:20							Module00		  20			Finished ex. 10. Starting 9 now.
+9/06  DP		14:20		14:30							Module00		  10			Cloning given repository pdp-dixitk13.
 
 
  
