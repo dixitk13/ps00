@@ -35,10 +35,7 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 ==============starting the excercises=======================
 09/06  DP		14:00		14:20							Module00		  20			Finished ex. 10. Starting 9 now.
 09/06  DP		14:20		14:30							Module00		  10			Cloning given repository pdp-dixitk13.
-09/06  DP		14:30		14:55							Module00		  25			Doing Ex. 9, exploring the racket documentation 
-
-
-    
+09/06  DP		14:30		14:55							Module00		  25			Doing Ex. 9, exploring the racket documentation   
 
     
 Total Time On Task Q1 (minutes)                  0
