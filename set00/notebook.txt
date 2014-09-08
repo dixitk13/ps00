@@ -1,4 +1,4 @@
-Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
+﻿Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 ==============setting up the laptop=======================
 09/04  DP		13:20		14:00							Module00          40			Issues with refreshing LDAP Servers in systems lab.
 09/04  DP		14:00		15:00			0				Lunch			  60			Lunch
@@ -40,9 +40,6 @@ Date   Who		Start		Stop		Interruptions		Question		TimeOnTask		Comments
 09/06  DP		23:15		23:30							Module00		  10			Changing to the BSL after reading on piazza
 
     
-Total Time On Task Q1 (minutes)                  0
-Total Time On Task Q2 (minutes)                  0
-TOTQ1 (hours and tenths)                         0.0
-TOTQ2 (hours and tenths)                         0.0
-
+Total Time On Task Q1-Q10 (minutes)              655
+TOTQ1-Q10 (hours and tenths)                     10.91
 P.S: DP = Dixit Patel
